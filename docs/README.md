@@ -6,5 +6,5 @@
 !> 关于我 
 
 <div style="background: #e3e3e3;display: flex;justify-content: center;padding: 10px;">
-	![](./imgs/myscancode.jpg)
+	![](https://github.com/TigerChain/docsifydemo/blob/master/docs/imgs/myscancode.jpg?raw=true)
 </div>
