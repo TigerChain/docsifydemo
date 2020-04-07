@@ -5,8 +5,4 @@
 
 > 关于我 
 
-<div style="background: #e3e3e3;display: flex;justify-content: center;padding: 10px;">
-	111
-</div>
-
 ![](./imgs/myscancode.jpg)
